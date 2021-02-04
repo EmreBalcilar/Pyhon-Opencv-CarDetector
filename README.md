@@ -1,4 +1,6 @@
 # Pyhon-Opencv-CarDetector
+
+First add -pip install opencv-python
 Detect cars on video using python opencv
 
 You need to download videos for this program to work
